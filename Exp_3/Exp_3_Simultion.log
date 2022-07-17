@@ -1,0 +1,196 @@
+Circuit: * C:\Users\KAUSHIK\Documents\LTspiceXVII\EE2019_Lab\Exp_3\Exp_3_Simultion.asc
+
+WARNING: Less than two connections to node EXP-2-BLOCK:U1:U1:UA:TEST.  This node is used by E:EXP-2-BLOCK:U1:U1:UA:TEST.
+WARNING: Less than two connections to node EXP-2-BLOCK:U1:U1:UA:VTH_DIFF.  This node is used by E:EXP-2-BLOCK:U1:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node EXP-2-BLOCK:U1:U1:UB:TEST.  This node is used by E:EXP-2-BLOCK:U1:U1:UB:TEST.
+WARNING: Less than two connections to node EXP-2-BLOCK:U1:U1:UB:VTH_DIFF.  This node is used by E:EXP-2-BLOCK:U1:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node EXP-2-BLOCK:U2:U1:UA:TEST.  This node is used by E:EXP-2-BLOCK:U2:U1:UA:TEST.
+WARNING: Less than two connections to node EXP-2-BLOCK:U2:U1:UA:VTH_DIFF.  This node is used by E:EXP-2-BLOCK:U2:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node EXP-2-BLOCK:U2:U1:UB:TEST.  This node is used by E:EXP-2-BLOCK:U2:U1:UB:TEST.
+WARNING: Less than two connections to node EXP-2-BLOCK:U2:U1:UB:VTH_DIFF.  This node is used by E:EXP-2-BLOCK:U2:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node EXP-2-BLOCK:U3:U1:UA:TEST.  This node is used by E:EXP-2-BLOCK:U3:U1:UA:TEST.
+WARNING: Less than two connections to node EXP-2-BLOCK:U3:U1:UA:VTH_DIFF.  This node is used by E:EXP-2-BLOCK:U3:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node EXP-2-BLOCK:U3:U1:UB:TEST.  This node is used by E:EXP-2-BLOCK:U3:U1:UB:TEST.
+WARNING: Less than two connections to node EXP-2-BLOCK:U3:U1:UB:VTH_DIFF.  This node is used by E:EXP-2-BLOCK:U3:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node EXP-2-BLOCK:U3:U1:NA1.  This node is used by R:EXP-2-BLOCK:U3:U1:DA1.
+WARNING: Less than two connections to node EXP-2-BLOCK:U3:U1:NB1.  This node is used by R:EXP-2-BLOCK:U3:U1:DB1.
+WARNING: Less than two connections to node EXP-2-BLOCK:U3:U1:NO1.  This node is used by R:EXP-2-BLOCK:U3:U1:DO1.
+WARNING: Less than two connections to node EXP-2-BLOCK:U4:U1:UA:TEST.  This node is used by E:EXP-2-BLOCK:U4:U1:UA:TEST.
+WARNING: Less than two connections to node EXP-2-BLOCK:U4:U1:UA:VTH_DIFF.  This node is used by E:EXP-2-BLOCK:U4:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node EXP-2-BLOCK:U4:U1:UB:TEST.  This node is used by E:EXP-2-BLOCK:U4:U1:UB:TEST.
+WARNING: Less than two connections to node EXP-2-BLOCK:U4:U1:UB:VTH_DIFF.  This node is used by E:EXP-2-BLOCK:U4:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node EXP-2-BLOCK:U4:U1:NA1.  This node is used by R:EXP-2-BLOCK:U4:U1:DA1.
+WARNING: Less than two connections to node EXP-2-BLOCK:U4:U1:NB1.  This node is used by R:EXP-2-BLOCK:U4:U1:DB1.
+WARNING: Less than two connections to node EXP-2-BLOCK:U4:U1:NO1.  This node is used by R:EXP-2-BLOCK:U4:U1:DO1.
+WARNING: Less than two connections to node EXP-2-BLOCK:U5:U1:UA:TEST.  This node is used by E:EXP-2-BLOCK:U5:U1:UA:TEST.
+WARNING: Less than two connections to node EXP-2-BLOCK:U5:U1:UA:VTH_DIFF.  This node is used by E:EXP-2-BLOCK:U5:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node EXP-2-BLOCK:U5:U1:UB:TEST.  This node is used by E:EXP-2-BLOCK:U5:U1:UB:TEST.
+WARNING: Less than two connections to node EXP-2-BLOCK:U5:U1:UB:VTH_DIFF.  This node is used by E:EXP-2-BLOCK:U5:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node EXP-2-BLOCK:U5:U1:NA1.  This node is used by R:EXP-2-BLOCK:U5:U1:DA1.
+WARNING: Less than two connections to node EXP-2-BLOCK:U5:U1:NB1.  This node is used by R:EXP-2-BLOCK:U5:U1:DB1.
+WARNING: Less than two connections to node EXP-2-BLOCK:U5:U1:NO1.  This node is used by R:EXP-2-BLOCK:U5:U1:DO1.
+WARNING: Less than two connections to node EXP-2-BLOCK:U6:U1:UA:TEST.  This node is used by E:EXP-2-BLOCK:U6:U1:UA:TEST.
+WARNING: Less than two connections to node EXP-2-BLOCK:U6:U1:UA:VTH_DIFF.  This node is used by E:EXP-2-BLOCK:U6:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node EXP-2-BLOCK:U6:U1:UB:TEST.  This node is used by E:EXP-2-BLOCK:U6:U1:UB:TEST.
+WARNING: Less than two connections to node EXP-2-BLOCK:U6:U1:UB:VTH_DIFF.  This node is used by E:EXP-2-BLOCK:U6:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node EXP-2-BLOCK:U6:U1:NA1.  This node is used by R:EXP-2-BLOCK:U6:U1:DA1.
+WARNING: Less than two connections to node EXP-2-BLOCK:U6:U1:NB1.  This node is used by R:EXP-2-BLOCK:U6:U1:DB1.
+WARNING: Less than two connections to node EXP-2-BLOCK:U6:U1:NO1.  This node is used by R:EXP-2-BLOCK:U6:U1:DO1.
+WARNING: Less than two connections to node EXP-2-BLOCK:U7:U1:UA:TEST.  This node is used by E:EXP-2-BLOCK:U7:U1:UA:TEST.
+WARNING: Less than two connections to node EXP-2-BLOCK:U7:U1:UA:VTH_DIFF.  This node is used by E:EXP-2-BLOCK:U7:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node EXP-2-BLOCK:U7:U1:UB:TEST.  This node is used by E:EXP-2-BLOCK:U7:U1:UB:TEST.
+WARNING: Less than two connections to node EXP-2-BLOCK:U7:U1:UB:VTH_DIFF.  This node is used by E:EXP-2-BLOCK:U7:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node EXP-2-BLOCK:U7:U1:NA1.  This node is used by R:EXP-2-BLOCK:U7:U1:DA1.
+WARNING: Less than two connections to node EXP-2-BLOCK:U7:U1:NB1.  This node is used by R:EXP-2-BLOCK:U7:U1:DB1.
+WARNING: Less than two connections to node EXP-2-BLOCK:U7:U1:NO1.  This node is used by R:EXP-2-BLOCK:U7:U1:DO1.
+Per .tran options, skipping operating point for transient analysis.
+Heightened Def Con from 3.73115e-005 to 3.73135e-005
+Heightened Def Con from 5.2653e-005 to 5.2654e-005
+Heightened Def Con from 6.31617e-005 to 6.31637e-005
+Heightened Def Con from 9.38197e-005 to 9.38217e-005
+Heightened Def Con from 0.0001396 to 0.000139602
+Heightened Def Con from 0.000211291 to 0.000211292
+Heightened Def Con from 0.000256926 to 0.000256928
+Heightened Def Con from 0.00026751 to 0.000267511
+Heightened Def Con from 0.000337827 to 0.000337828
+Heightened Def Con from 0.000379746 to 0.000379748
+Heightened Def Con from 0.000440556 to 0.000440557
+Heightened Def Con from 0.000471661 to 0.000471663
+Heightened Def Con from 0.000578007 to 0.000578008
+Heightened Def Con from 0.00066052 to 0.000660522
+Heightened Def Con from 0.000716842 to 0.000716844
+Heightened Def Con from 0.000757669 to 0.000757671
+Heightened Def Con from 0.000778085 to 0.000778086
+Heightened Def Con from 0.000793458 to 0.00079346
+Heightened Def Con from 0.000823084 to 0.000823085
+Heightened Def Con from 0.000931429 to 0.00093143
+Heightened Def Con from 0.00112012 to 0.00112012
+Heightened Def Con from 0.0013447 to 0.0013447
+Heightened Def Con from 0.00134911 to 0.00134911
+Heightened Def Con from 0.0014154 to 0.0014154
+Heightened Def Con from 0.00143174 to 0.00143174
+Heightened Def Con from 0.00148761 to 0.00148761
+Heightened Def Con from 0.00168705 to 0.00168705
+Heightened Def Con from 0.00176788 to 0.00176788
+Heightened Def Con from 0.00196279 to 0.00196279
+Heightened Def Con from 0.00222291 to 0.00222292
+Heightened Def Con from 0.00223799 to 0.00223799
+Heightened Def Con from 0.00223837 to 0.00223837
+Heightened Def Con from 0.00249867 to 0.00249868
+Heightened Def Con from 0.0025285 to 0.0025285
+Heightened Def Con from 0.00267762 to 0.00267763
+Heightened Def Con from 0.00270324 to 0.00270324
+Heightened Def Con from 0.00272822 to 0.00272822
+Heightened Def Con from 0.00280525 to 0.00280525
+Heightened Def Con from 0.00286051 to 0.00286052
+Heightened Def Con from 0.00292792 to 0.00292793
+Heightened Def Con from 0.00295328 to 0.00295328
+Heightened Def Con from 0.0029891 to 0.0029891
+Heightened Def Con from 0.0030297 to 0.0030297
+Heightened Def Con from 0.00303361 to 0.00303361
+Heightened Def Con from 0.00309102 to 0.00309102
+Heightened Def Con from 0.00340263 to 0.00340263
+Heightened Def Con from 0.00360621 to 0.00360622
+Heightened Def Con from 0.00384182 to 0.00384182
+Heightened Def Con from 0.00386745 to 0.00386745
+Heightened Def Con from 0.00402871 to 0.00402871
+Heightened Def Con from 0.00415777 to 0.00415777
+Heightened Def Con from 0.00421908 to 0.00421908
+Heightened Def Con from 0.00426545 to 0.00426545
+Heightened Def Con from 0.00430657 to 0.00430657
+Heightened Def Con from 0.00438235 to 0.00438235
+Heightened Def Con from 0.00456639 to 0.00456639
+Heightened Def Con from 0.00461259 to 0.00461259
+Heightened Def Con from 0.00476026 to 0.00476026
+Heightened Def Con from 0.00476581 to 0.00476581
+Heightened Def Con from 0.00478654 to 0.00478654
+Heightened Def Con from 0.00479565 to 0.00479566
+Heightened Def Con from 0.00488349 to 0.00488349
+Heightened Def Con from 0.00498558 to 0.00498558
+Heightened Def Con from 0.00520416 to 0.00520416
+Heightened Def Con from 0.00523037 to 0.00523037
+Heightened Def Con from 0.00523561 to 0.00523561
+Heightened Def Con from 0.00549094 to 0.00549094
+Heightened Def Con from 0.0055317 to 0.0055317
+Heightened Def Con from 0.00554727 to 0.00554727
+Heightened Def Con from 0.00563401 to 0.00563401
+Heightened Def Con from 0.00566882 to 0.00566882
+Heightened Def Con from 0.00569024 to 0.00569024
+Heightened Def Con from 0.00569517 to 0.00569517
+Heightened Def Con from 0.00571484 to 0.00571484
+Heightened Def Con from 0.00573109 to 0.00573109
+Heightened Def Con from 0.00578736 to 0.00578736
+Heightened Def Con from 0.00589417 to 0.00589417
+Heightened Def Con from 0.00606802 to 0.00606802
+Heightened Def Con from 0.00612901 to 0.00612901
+Heightened Def Con from 0.00620069 to 0.00620069
+Heightened Def Con from 0.0062614 to 0.00626141
+Heightened Def Con from 0.00632299 to 0.00632299
+Heightened Def Con from 0.00635396 to 0.00635396
+Heightened Def Con from 0.00662989 to 0.00662989
+Heightened Def Con from 0.00679319 to 0.00679319
+Heightened Def Con from 0.00685444 to 0.00685444
+Heightened Def Con from 0.00687931 to 0.00687931
+Heightened Def Con from 0.00696625 to 0.00696625
+Heightened Def Con from 0.00696664 to 0.00696664
+Heightened Def Con from 0.00697703 to 0.00697703
+Heightened Def Con from 0.0070026 to 0.00700261
+Heightened Def Con from 0.00702195 to 0.00702195
+Heightened Def Con from 0.00715558 to 0.00715558
+Heightened Def Con from 0.00720118 to 0.00720119
+Heightened Def Con from 0.00725686 to 0.00725686
+Heightened Def Con from 0.00727314 to 0.00727315
+Heightened Def Con from 0.00729877 to 0.00729877
+Heightened Def Con from 0.00732384 to 0.00732384
+Heightened Def Con from 0.00734324 to 0.00734324
+Heightened Def Con from 0.00734947 to 0.00734947
+Heightened Def Con from 0.00736004 to 0.00736004
+Heightened Def Con from 0.00753151 to 0.00753151
+Heightened Def Con from 0.00762513 to 0.00762513
+Heightened Def Con from 0.00768097 to 0.00768098
+Heightened Def Con from 0.00774771 to 0.00774771
+Heightened Def Con from 0.00778349 to 0.00778349
+Heightened Def Con from 0.00780873 to 0.00780873
+Heightened Def Con from 0.00783474 to 0.00783474
+Heightened Def Con from 0.00792637 to 0.00792637
+Heightened Def Con from 0.007977 to 0.00797701
+Heightened Def Con from 0.00806371 to 0.00806371
+Heightened Def Con from 0.00817168 to 0.00817168
+Heightened Def Con from 0.00825284 to 0.00825284
+Heightened Def Con from 0.00829846 to 0.00829846
+Heightened Def Con from 0.00831967 to 0.00831967
+Heightened Def Con from 0.0083595 to 0.0083595
+Heightened Def Con from 0.00851298 to 0.00851298
+Heightened Def Con from 0.00880001 to 0.00880001
+Heightened Def Con from 0.00886611 to 0.00886611
+Heightened Def Con from 0.00892741 to 0.00892741
+Heightened Def Con from 0.00899888 to 0.00899888
+Heightened Def Con from 0.00904297 to 0.00904297
+Heightened Def Con from 0.00907057 to 0.00907057
+Heightened Def Con from 0.00912148 to 0.00912148
+Heightened Def Con from 0.00913603 to 0.00913604
+Heightened Def Con from 0.00915226 to 0.00915226
+Heightened Def Con from 0.00925442 to 0.00925443
+Heightened Def Con from 0.00947902 to 0.00947902
+Heightened Def Con from 0.00954031 to 0.00954031
+Heightened Def Con from 0.010146 to 0.010146
+Heightened Def Con from 0.0101806 to 0.0101806
+
+Date: Fri Jul 08 10:01:21 2022
+Total elapsed time: 295.553 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1796619
+traniter = 1796619
+tranpoints = 473701
+accept = 351682
+rejected = 122150
+matrix size = 898
+fillins = 175
+solver = Normal
+Thread vector: 247.5/115.7[4] 9.6/6.2[4] 82.6/48.3[4] 3.2/1.9[3]  2592/500
+Matrix Compiler1: 26.98 KB object code size  11.7/12.7/[2.5]
+Matrix Compiler2: 55.14 KB object code size  8.7/17.6/[4.6]
+
