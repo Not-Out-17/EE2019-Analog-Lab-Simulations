@@ -1,18 +1,118 @@
 Circuit: * C:\Users\KAUSHIK\Documents\LTspiceXVII\EE2019_Lab\Exp_5\Exp_5_Simulation.asc
 
+WARNING: Less than two connections to node U4:U1:UA:TEST.  This node is used by E:U4:U1:UA:TEST.
+WARNING: Less than two connections to node U4:U1:UA:VTH_DIFF.  This node is used by E:U4:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U4:U1:UB:TEST.  This node is used by E:U4:U1:UB:TEST.
+WARNING: Less than two connections to node U4:U1:UB:VTH_DIFF.  This node is used by E:U4:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U5:U1:UA:TEST.  This node is used by E:U5:U1:UA:TEST.
+WARNING: Less than two connections to node U5:U1:UA:VTH_DIFF.  This node is used by E:U5:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U5:U1:UB:TEST.  This node is used by E:U5:U1:UB:TEST.
+WARNING: Less than two connections to node U5:U1:UB:VTH_DIFF.  This node is used by E:U5:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U6:U1:UA:TEST.  This node is used by E:U6:U1:UA:TEST.
+WARNING: Less than two connections to node U6:U1:UA:VTH_DIFF.  This node is used by E:U6:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U6:U1:UB:TEST.  This node is used by E:U6:U1:UB:TEST.
+WARNING: Less than two connections to node U6:U1:UB:VTH_DIFF.  This node is used by E:U6:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U6:U1:NA1.  This node is used by R:U6:U1:DA1.
+WARNING: Less than two connections to node U6:U1:NB1.  This node is used by R:U6:U1:DB1.
+WARNING: Less than two connections to node U6:U1:NO1.  This node is used by R:U6:U1:DO1.
+WARNING: Less than two connections to node U7:U1:UA:TEST.  This node is used by E:U7:U1:UA:TEST.
+WARNING: Less than two connections to node U7:U1:UA:VTH_DIFF.  This node is used by E:U7:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U7:U1:UB:TEST.  This node is used by E:U7:U1:UB:TEST.
+WARNING: Less than two connections to node U7:U1:UB:VTH_DIFF.  This node is used by E:U7:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U7:U1:NA1.  This node is used by R:U7:U1:DA1.
+WARNING: Less than two connections to node U7:U1:NB1.  This node is used by R:U7:U1:DB1.
+WARNING: Less than two connections to node U7:U1:NO1.  This node is used by R:U7:U1:DO1.
+WARNING: Less than two connections to node U8:U1:UA:TEST.  This node is used by E:U8:U1:UA:TEST.
+WARNING: Less than two connections to node U8:U1:UA:VTH_DIFF.  This node is used by E:U8:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U8:U1:UB:TEST.  This node is used by E:U8:U1:UB:TEST.
+WARNING: Less than two connections to node U8:U1:UB:VTH_DIFF.  This node is used by E:U8:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U9:U1:UA:TEST.  This node is used by E:U9:U1:UA:TEST.
+WARNING: Less than two connections to node U9:U1:UA:VTH_DIFF.  This node is used by E:U9:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U9:U1:UB:TEST.  This node is used by E:U9:U1:UB:TEST.
+WARNING: Less than two connections to node U9:U1:UB:VTH_DIFF.  This node is used by E:U9:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U10:U1:UA:TEST.  This node is used by E:U10:U1:UA:TEST.
+WARNING: Less than two connections to node U10:U1:UA:VTH_DIFF.  This node is used by E:U10:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U10:U1:UB:TEST.  This node is used by E:U10:U1:UB:TEST.
+WARNING: Less than two connections to node U10:U1:UB:VTH_DIFF.  This node is used by E:U10:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U10:U1:NA1.  This node is used by R:U10:U1:DA1.
+WARNING: Less than two connections to node U10:U1:NB1.  This node is used by R:U10:U1:DB1.
+WARNING: Less than two connections to node U10:U1:NO1.  This node is used by R:U10:U1:DO1.
+WARNING: Less than two connections to node U11:U1:UA:TEST.  This node is used by E:U11:U1:UA:TEST.
+WARNING: Less than two connections to node U11:U1:UA:VTH_DIFF.  This node is used by E:U11:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U11:U1:UB:TEST.  This node is used by E:U11:U1:UB:TEST.
+WARNING: Less than two connections to node U11:U1:UB:VTH_DIFF.  This node is used by E:U11:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U11:U1:NA1.  This node is used by R:U11:U1:DA1.
+WARNING: Less than two connections to node U11:U1:NB1.  This node is used by R:U11:U1:DB1.
+WARNING: Less than two connections to node U11:U1:NO1.  This node is used by R:U11:U1:DO1.
+WARNING: Less than two connections to node U12:U1:UA:TEST.  This node is used by E:U12:U1:UA:TEST.
+WARNING: Less than two connections to node U12:U1:UA:VTH_DIFF.  This node is used by E:U12:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U12:U1:UB:TEST.  This node is used by E:U12:U1:UB:TEST.
+WARNING: Less than two connections to node U12:U1:UB:VTH_DIFF.  This node is used by E:U12:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U12:U1:NA1.  This node is used by R:U12:U1:DA1.
+WARNING: Less than two connections to node U12:U1:NB1.  This node is used by R:U12:U1:DB1.
+WARNING: Less than two connections to node U12:U1:NO1.  This node is used by R:U12:U1:DO1.
+WARNING: Less than two connections to node U13:U1:UA:TEST.  This node is used by E:U13:U1:UA:TEST.
+WARNING: Less than two connections to node U13:U1:UA:VTH_DIFF.  This node is used by E:U13:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U13:U1:UB:TEST.  This node is used by E:U13:U1:UB:TEST.
+WARNING: Less than two connections to node U13:U1:UB:VTH_DIFF.  This node is used by E:U13:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U13:U1:NA1.  This node is used by R:U13:U1:DA1.
+WARNING: Less than two connections to node U13:U1:NB1.  This node is used by R:U13:U1:DB1.
+WARNING: Less than two connections to node U13:U1:NO1.  This node is used by R:U13:U1:DO1.
+WARNING: Less than two connections to node U14:U1:UA:TEST.  This node is used by E:U14:U1:UA:TEST.
+WARNING: Less than two connections to node U14:U1:UA:VTH_DIFF.  This node is used by E:U14:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U14:U1:UB:TEST.  This node is used by E:U14:U1:UB:TEST.
+WARNING: Less than two connections to node U14:U1:UB:VTH_DIFF.  This node is used by E:U14:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U14:U1:NA1.  This node is used by R:U14:U1:DA1.
+WARNING: Less than two connections to node U14:U1:NB1.  This node is used by R:U14:U1:DB1.
+WARNING: Less than two connections to node U14:U1:NO1.  This node is used by R:U14:U1:DO1.
+WARNING: Less than two connections to node U15:U1:UA:TEST.  This node is used by E:U15:U1:UA:TEST.
+WARNING: Less than two connections to node U15:U1:UA:VTH_DIFF.  This node is used by E:U15:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U15:U1:UB:TEST.  This node is used by E:U15:U1:UB:TEST.
+WARNING: Less than two connections to node U15:U1:UB:VTH_DIFF.  This node is used by E:U15:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U15:U1:NA1.  This node is used by R:U15:U1:DA1.
+WARNING: Less than two connections to node U15:U1:NB1.  This node is used by R:U15:U1:DB1.
+WARNING: Less than two connections to node U15:U1:NO1.  This node is used by R:U15:U1:DO1.
+WARNING: Less than two connections to node U16:U1:UA:TEST.  This node is used by E:U16:U1:UA:TEST.
+WARNING: Less than two connections to node U16:U1:UA:VTH_DIFF.  This node is used by E:U16:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U16:U1:UB:TEST.  This node is used by E:U16:U1:UB:TEST.
+WARNING: Less than two connections to node U16:U1:UB:VTH_DIFF.  This node is used by E:U16:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U16:U1:NA1.  This node is used by R:U16:U1:DA1.
+WARNING: Less than two connections to node U16:U1:NB1.  This node is used by R:U16:U1:DB1.
+WARNING: Less than two connections to node U16:U1:NO1.  This node is used by R:U16:U1:DO1.
+WARNING: Less than two connections to node U17:U1:UA:TEST.  This node is used by E:U17:U1:UA:TEST.
+WARNING: Less than two connections to node U17:U1:UA:VTH_DIFF.  This node is used by E:U17:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U17:U1:UB:TEST.  This node is used by E:U17:U1:UB:TEST.
+WARNING: Less than two connections to node U17:U1:UB:VTH_DIFF.  This node is used by E:U17:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U17:U1:NA1.  This node is used by R:U17:U1:DA1.
+WARNING: Less than two connections to node U17:U1:NB1.  This node is used by R:U17:U1:DB1.
+WARNING: Less than two connections to node U17:U1:NO1.  This node is used by R:U17:U1:DO1.
+WARNING: Less than two connections to node U18:U1:UA:TEST.  This node is used by E:U18:U1:UA:TEST.
+WARNING: Less than two connections to node U18:U1:UA:VTH_DIFF.  This node is used by E:U18:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U18:U1:UB:TEST.  This node is used by E:U18:U1:UB:TEST.
+WARNING: Less than two connections to node U18:U1:UB:VTH_DIFF.  This node is used by E:U18:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U18:U1:NA1.  This node is used by R:U18:U1:DA1.
+WARNING: Less than two connections to node U18:U1:NB1.  This node is used by R:U18:U1:DB1.
+WARNING: Less than two connections to node U18:U1:NO1.  This node is used by R:U18:U1:DO1.
+WARNING: Less than two connections to node U19:U1:UA:TEST.  This node is used by E:U19:U1:UA:TEST.
+WARNING: Less than two connections to node U19:U1:UA:VTH_DIFF.  This node is used by E:U19:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U19:U1:UB:TEST.  This node is used by E:U19:U1:UB:TEST.
+WARNING: Less than two connections to node U19:U1:UB:VTH_DIFF.  This node is used by E:U19:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U19:U1:NA1.  This node is used by R:U19:U1:DA1.
+WARNING: Less than two connections to node U19:U1:NB1.  This node is used by R:U19:U1:DB1.
+WARNING: Less than two connections to node U19:U1:NO1.  This node is used by R:U19:U1:DO1.
 Per .tran options, skipping operating point for transient analysis.
-Changing Tseed to 1e-008
-Changing Tseed to 1e-010
-Changing Tseed to 1e-007
-Changing Tseed to 1e-011
-Changing Tseed to 1e-006
-Changing Tseed to 1e-012
-Changing Tseed to 1e-005
-Changing Tseed to 1e-013
-Changing Tseed to 0.0001
-Changing Tseed to 1e-014
-Changing Tseed to 0.001
-Changing Tseed to 1e-015
+Changing Tseed to 9.76563e-011
+Changing Tseed to 9.76562e-013
+Changing Tseed to 9.76562e-010
+Changing Tseed to 9.76563e-014
+Changing Tseed to 9.76562e-009
+Changing Tseed to 9.76562e-015
+Changing Tseed to 9.76562e-008
+Changing Tseed to 9.76562e-016
+Changing Tseed to 9.76563e-007
+Changing Tseed to 9.76562e-017
+Changing Tseed to 9.76562e-006
+Changing Tseed to 9.76562e-018
 Heightened Def Con from 0 Changing Tseed to 1e-009
 Changing Tseed to 1e-011
 Changing Tseed to 1e-008
@@ -267,28 +367,97 @@ Changing Tseed to 0.0001
 Changing Tseed to 1e-016
 +Changing Tseed to 1e-009
 Changing Tseed to 1e-011
+Changing Tseed to 1e-008
+Changing Tseed to 1e-012
+Changing Tseed to 1e-007
+Changing Tseed to 1e-013
+Changing Tseed to 1e-006
+Changing Tseed to 1e-014
+Changing Tseed to 1e-005
+Changing Tseed to 1e-015
+Changing Tseed to 0.0001
+Changing Tseed to 1e-016
++Changing Tseed to 1e-009
+Changing Tseed to 1e-011
+Changing Tseed to 1e-008
+Changing Tseed to 1e-012
+Changing Tseed to 1e-007
+Changing Tseed to 1e-013
+Changing Tseed to 1e-006
+Changing Tseed to 1e-014
+Changing Tseed to 1e-005
+Changing Tseed to 1e-015
+Changing Tseed to 0.0001
+Changing Tseed to 1e-016
++Changing Tseed to 1e-009
+Changing Tseed to 1e-011
+Changing Tseed to 1e-008
+Changing Tseed to 1e-012
+Changing Tseed to 1e-007
+Changing Tseed to 1e-013
+Changing Tseed to 1e-006
+Changing Tseed to 1e-014
+Changing Tseed to 1e-005
+Changing Tseed to 1e-015
+Changing Tseed to 0.0001
+Changing Tseed to 1e-016
++Changing Tseed to 1e-009
+Changing Tseed to 1e-011
+Changing Tseed to 1e-008
+Changing Tseed to 1e-012
+Changing Tseed to 1e-007
+Changing Tseed to 1e-013
+Changing Tseed to 1e-006
+Changing Tseed to 1e-014
+Changing Tseed to 1e-005
+Changing Tseed to 1e-015
+Changing Tseed to 0.0001
+Changing Tseed to 1e-016
++Changing Tseed to 1e-009
+Changing Tseed to 1e-011
+Changing Tseed to 1e-008
+Changing Tseed to 1e-012
+Changing Tseed to 1e-007
+Changing Tseed to 1e-013
+Changing Tseed to 1e-006
+Changing Tseed to 1e-014
+Changing Tseed to 1e-005
+Changing Tseed to 1e-015
+Changing Tseed to 0.0001
+Changing Tseed to 1e-016
++Changing Tseed to 1e-009
+Changing Tseed to 1e-011
 to 1.125e-011
-Heightened Def Con from 0.000781897 to 0.000781898
-Heightened Def Con from 0.00122097 to 0.00122097
-Heightened Def Con from 0.00123115 to 0.00123115
-Heightened Def Con from 0.00129334 to 0.00129334
-Heightened Def Con from 0.00163653 to 0.00163653
+Heightened Def Con from 1.37448e-007 ++++++++++++++++++to 1.37448e-007
+Heightened Def Con from 1.37448e-007 +++++++++++++++++++++++++++to 1.38464e-007
+Heightened Def Con from 1.38464e-007 +++++++++++++++++++++++++to 1.40479e-007
+Heightened Def Con from 1.41457e-007 to 1.41584e-007
+Heightened Def Con from 1.72046e-007 +++++++++++++++++++++++++to 1.76046e-007
+Heightened Def Con from 7.61206e-007 +++++++++++++++++++to 7.61206e-007
+Heightened Def Con from 7.61206e-007 ++++++++++++++++++++++++++to 7.62221e-007
+Heightened Def Con from 7.62221e-007 +++++++++++++++++++++++++to 7.66221e-007
+Heightened Def Con from 5.47131e-006 to 5.47431e-006
+Heightened Def Con from 5.49562e-006 to 5.49587e-006
+Heightened Def Con from 2.62409e-005 to 2.62412e-005
+Heightened Def Con from 4.56904e-005 to 4.56905e-005
+Heightened Def Con from 4.69843e-005 to 4.69845e-005
+Heightened Def Con from 0.000100788 to 0.000100788
 
-Date: Mon Jul 18 00:11:21 2022
-Total elapsed time: 12.014 seconds.
+Date: Wed Jul 20 13:38:14 2022
+Total elapsed time: 75.137 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 484830
-traniter = 484830
-tranpoints = 121658
-accept = 88732
-rejected = 32687
-matrix size = 73
-fillins = 33
+totiter = 81902
+traniter = 81902
+tranpoints = 19059
+accept = 12850
+rejected = 6089
+matrix size = 1994
+fillins = 849
 solver = Normal
-Thread vector: 30.0/14.7[4] 5.4/3.2[4] 3.2/2.6[4] 0.3/0.4[1]  2592/500
-Matrix Compiler1: 6.65 KB object code size  1.6/1.1/[0.4]
-Matrix Compiler2: 6.42 KB object code size  0.8/1.4/[0.4]
+Thread vector: 1329.1/831.3[4] 29.5/17.6[4] 447.5/227.5[4] 15.7/10.4[4]  2592/500
+Matrix Compiler1: 95.31 KB object code size  54.3/32.2/[21.0]
+Matrix Compiler2: 124.55 KB object code size  41.2/57.9/[22.0]
 

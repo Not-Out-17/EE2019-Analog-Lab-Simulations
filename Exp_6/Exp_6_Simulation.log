@@ -4,20 +4,20 @@ Per .tran options, skipping operating point for transient analysis.
 Changing Tseed to 1e-008
 Changing Tseed to 1e-010
 
-Date: Mon Jul 18 01:02:02 2022
-Total elapsed time: 1.293 seconds.
+Date: Wed Jul 20 13:39:14 2022
+Total elapsed time: 0.465 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 401115
-traniter = 401115
-tranpoints = 200194
-accept = 120161
-rejected = 80031
+totiter = 81372
+traniter = 81372
+tranpoints = 40265
+accept = 24228
+rejected = 16035
 matrix size = 15
-fillins = 5
+fillins = 6
 solver = Normal
-Matrix Compiler1: 940 bytes object code size  0.2/0.1/[0.1]
-Matrix Compiler2: 1.36 KB object code size  0.1/0.2/[0.1]
+Matrix Compiler1: 980 bytes object code size  0.3/0.2/[0.1]
+Matrix Compiler2: 1.38 KB object code size  0.2/0.3/[0.1]
 
